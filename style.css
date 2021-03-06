@@ -1,0 +1,18 @@
+.div1 {
+  border: 1px outset gray;
+  padding-left: 10px;
+  background: rgba(40, 40, 40, 0.7);
+  text-align: left;
+  color: white;
+}
+
+body {
+  background-image: url("Milkway_Photo.jpg");
+  /* Image taken from url: https://unsplash.com/photos/80UR4DM2Rz0, picture taken by Casey Horner */
+  background-size: cover;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
